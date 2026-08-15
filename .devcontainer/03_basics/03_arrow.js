@@ -32,7 +32,7 @@ chai()
 // }
 // chaii()
 
-// () => {}   ye arrow function h
+// () => {}   ye arrow function h basic ka
 
 
 // const addTwo = (num1, num2) => {
