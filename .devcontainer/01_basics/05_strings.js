@@ -6,12 +6,12 @@ const repoCount = 50
 
 const gameName = new String("rishi-ika")
 
-// console.log(gameName[0]);
-// console.log(gameName.__proto__);
-// console.log(gameName.length);
-// console.log(gameName.charAt(4));
-// console.log(gameName.indexOf("r"));
-// console.log(gameName.toUpperCase());
+console.log(gameName[0]);
+console.log(gameName.__proto__);
+console.log(gameName.length);
+console.log(gameName.charAt(4));
+console.log(gameName.indexOf("r"));
+console.log(gameName.toUpperCase());
 
 
 const newString = gameName.substring(0,4)
