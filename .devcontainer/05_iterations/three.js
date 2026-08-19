@@ -16,7 +16,7 @@ const map = new Map()
 map.set('IN','India')  //same key value pair reapet nai hoga
 map.set('USA','United state of america')
 map.set('FR','France')
-map.set('IN','India')
+map.set('IN','India')            //ispe forin loop nai chalega kyuki uspe iteration nai hoga four.js
 // console.log(map);
 
 for (const [key,value] of map) {
@@ -26,7 +26,7 @@ for (const [key,value] of map) {
 
 const myObject = {
     game1: 'NFS',
-    game2 : 'FF'
+    game2 : 'FF' //objects p agr loop lagayenge forof to kaam nai krega
 }
 // for (const [key,value] of object) {
 //     console.log(key,':-',value);   
